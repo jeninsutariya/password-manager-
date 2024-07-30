@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.9.1)
+  - Applio (1.0.8):
+    - Alamofire
+  - IQKeyboardManagerSwift (7.0.3)
+
+DEPENDENCIES:
+  - Applio
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Applio
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  Applio: b7bc51eae8df271f7098fd85216eba9b101a8319
+  IQKeyboardManagerSwift: f9c5dc36cba16ddd2e51fa7d51c34a2e083029b5
+
+PODFILE CHECKSUM: cd6e01338df72c350546cf51f662597108ec954c
+
+COCOAPODS: 1.15.2
